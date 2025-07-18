@@ -21,5 +21,6 @@ It allows users to:
 
 
 🙋🏻‍♀️ About Me
+
 This was a personal project I built completely on my own to practice Python and OOP. I'm currently learning more every day and excited to improve!
 
