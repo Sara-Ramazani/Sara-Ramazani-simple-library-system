@@ -17,6 +17,13 @@ It allows users to:
 - Return borrowed books
 - Clear and organized code using classes
 
+## 📁 Project Structure
+
+- `main.py` — Main file to run the program  
+- `book.py` — Defines the Book class  
+- `library.py` — Defines the Library class  
+- `booklist.py` — Contains a list of books (title and author)
+
 ---
 
 
