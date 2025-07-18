@@ -23,22 +23,12 @@ It allows users to:
 
 Make sure you have Python installed.
 
-1. Clone the repository:
+1. Clone the repository, navigate to the folder, and run the program:
+
 ```bash
 git clone https://github.com/your-username/library-project.git
-
-2. Navigate into the project folder:
 cd library-project
-
-3. Run the program:
 python main.py
-
----
-
-🛠️ Technologies Used
-Python 3
-
-OOP (Object-Oriented Programming)
 
 ---
 
