@@ -7,15 +7,6 @@ It allows users to:
 - Return books
 - View available books
 
----
-## 🔧 Project Structure
-
-library-project/
-├── main.py        # Main file to run the program  
-├── book.py        # Defines the Book class  
-├── library.py     # Defines the Library class  
-└── booklist.py    # Contains a list of books (title and author)
-
  
 ---
 
