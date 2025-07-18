@@ -19,18 +19,6 @@ It allows users to:
 
 ---
 
-## 🚀 How to Run
-
-Make sure you have Python installed.
-
-1. Clone the repository, navigate to the folder, and run the program:
-
-```bash
-git clone https://github.com/your-username/library-project.git
-cd library-project
-python main.py
-'''
----
 
 🙋🏻‍♀️ About Me
 This was a personal project I built completely on my own to practice Python and OOP. I'm currently learning more every day and excited to improve!
