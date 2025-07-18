@@ -8,15 +8,13 @@ It allows users to:
 - View available books
 
 ---
-
 ## 🔧 Project Structure
 
 library-project/
-├── main.py # Main file to run the program
-├── book.py # Defines the Book class
-├── library.py # Defines the Library class
-└── booklist.py # Contains a list of books (title and author)
-
+├── main.py        # Main file to run the program  
+├── book.py        # Defines the Book class  
+├── library.py     # Defines the Library class  
+└── booklist.py    # Contains a list of books (title and author)
 
  
 ---
@@ -53,6 +51,6 @@ OOP (Object-Oriented Programming)
 
 ---
 
-## About Me
+🙋🏻‍♀️ About Me
 This was a personal project I built completely on my own to practice Python and OOP. I'm currently learning more every day and excited to improve!
 
